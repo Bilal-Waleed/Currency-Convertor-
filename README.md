@@ -15,7 +15,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your_username/currency-converter.git
+git clone https://github.com/Bilal-Waleed/Currency-Convertor-.git
 Install Dependencies:
 
 Copy code
